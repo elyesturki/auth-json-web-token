@@ -1,9 +1,9 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "hotels": [
+    { "id": 1, "title": "Laico", "city": "Hammamet", "category": 5 , "tarif": "120" },
+    { "id": 2, "title": "Venus", "city": "Hammamet", "category": 4 , "tarif": "80" },
+    { "id": 3, "title": "RIU", "city": "Sousse", "category": 5 , "tarif": "150" },
+    { "id": 4, "title": "Dar Ismael", "city": "Tabarka", "category": 3 , "tarif": "90" },
+    { "id": 5, "title": "Mahari", "city": "Drejrba", "category": 4 , "tarif": "100" }
+  ]
 }

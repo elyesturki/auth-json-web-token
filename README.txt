@@ -36,3 +36,16 @@ create server.js
 
     1- go to your server.js directory and run : npm link json-server
     2- run node server.js
+
+cmd
+//   > node server.js
+//OR > json-server --watch db.json
+
+//////////////////
+npm i jsonwebtoken --save
+npm i body-parser --save
+
+///sous ./backend/
+node server.js
+
+http://localhost:3000/auth/login
