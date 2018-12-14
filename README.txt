@@ -27,3 +27,12 @@ json-server --watch db.json
 { "id": 1, "title": "json-server", "author": "typicode" }
 
 ////////////////////////////////////////
+--> Faire fonctionner le serveur json
+npm install -g json-server
+create server.js
+
+    1- go to your server.js directory and run : npm init -y
+    2- npm install json-server --save-dev
+
+    1- go to your server.js directory and run : npm link json-server
+    2- run node server.js
